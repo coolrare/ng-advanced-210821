@@ -1,12 +1,14 @@
-# Angular 11 開發實戰：進階開發篇 實作練習專案
+# Angular 12 開發實戰：進階開發篇 實作練習專案
 
-本次 **Angular 11 開發實戰：進階開發篇** 課程，將會從這份套完版後的 Angular 專案開始。
+本次 **Angular 12 開發實戰：進階開發篇** 課程，將會從這份套完版後的 Angular 專案開始。
+
+> 如果想複習基礎的套版過程，我有錄製一段教學影片請到 [練習套版過程](#練習套版過程) 閱讀相關資訊。
 
 ## 準備練習實作環境
 
 你可以透過兩種方式取得範例專案：
 
-1. 點擊右側的 [Releases](https://github.com/coolrare/ng-advanced-210410/releases) 下載 `Source code (zip)` 回去解壓縮。
+1. 點擊右側的 [Releases](https://github.com/coolrare/ng-advanced-210821/releases) 下載 `Source code (zip)` 回去解壓縮。
 2. 透過 Git 將本專案 Fork 回個人的 GitHub 帳號下，再透過 `git clone` 複製專案回去。
 
 取得專案後請依據已下步驟設定：
@@ -25,7 +27,7 @@
 
 ## 練習套版過程
 
-1. 點擊右側的 [Releases](https://github.com/coolrare/ng-advanced-210410/releases) 下載  `startbootstrap-sb-admin-2-gh-pages.zip` 回去解壓縮。
+1. 點擊右側的 [Releases](https://github.com/coolrare/ng-advanced-210821/releases) 下載  `startbootstrap-sb-admin-2-gh-pages.zip` 回去解壓縮。
 
 2. 透過 `ng new` 命令建立 Angular 專案
 
